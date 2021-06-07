@@ -1,0 +1,8 @@
+{
+    "apps": [
+        {
+            "name": "Anchoring Api",
+            "script": "npm start"
+        }
+    ]
+}
