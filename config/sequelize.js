@@ -50,7 +50,7 @@ sequelize
   })
   .catch((err) => {
     console.log(err);
-    console.log('An error occured %j', err);
+    console.log('An error occurred %j', err);
   });
 
 db.sequelize = sequelize;

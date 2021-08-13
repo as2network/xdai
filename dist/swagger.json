@@ -5,7 +5,7 @@
     "title": "EDI API",
     "description": "EDI API"
   },
-  "host": "35.162.43.79:3000",
+  "host": "localhost:3000",
   "basePath": "/",
   "schemes": [
     "http"

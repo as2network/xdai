@@ -10,7 +10,7 @@ router.get('/health-check', (req, res) =>
 );
 
 router.get('/', (req, res) =>
-  res.send('Anchoring Api is working!')
+  res.send('AS4 Protocol is ready')
 );
 
 router.get('/api-docs', (req, res) =>
